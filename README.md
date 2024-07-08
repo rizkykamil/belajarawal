@@ -7,5 +7,6 @@ Button
 Binding View / findViewById()
 mengambil nilai dari edittext ==> editText.get.Text().toString();
 parsing / mengubah String ke int ==> Interger.parseInt(etTinggi.getText().toString());
+dan itu 
 
 ![alt text]( https://i.imgur.com/GTEiNaJ.png.png )
